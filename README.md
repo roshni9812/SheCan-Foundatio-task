@@ -27,6 +27,8 @@ A simple full-stack Intern Portal built as part of the SheCan Foundation task. T
 <img width="1910" height="1022" alt="image" src="https://github.com/user-attachments/assets/2c57da0c-88d1-4de4-a2f8-179fa2459013" />
 <img width="1913" height="1005" alt="image" src="https://github.com/user-attachments/assets/ae2a3392-5c40-4928-8872-70bbb8f09a6b" />
 <img width="1914" height="909" alt="image" src="https://github.com/user-attachments/assets/21246560-7a50-47d2-9873-c47a0da85661" />
+<img width="1907" height="961" alt="image" src="https://github.com/user-attachments/assets/3e5d6efb-6bd6-4509-941d-c75cbbba5d63" />
+
 
 
 
